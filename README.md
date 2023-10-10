@@ -49,7 +49,7 @@ cd complete-application
 ```
 Note: If you are on Windows swap `./mvnw` with `.\mvnw.cmd`
 
-Now visit the SpringBoot app at [http://localhost:8080](http://localhost:8080)
+Now visit the SpringBoot app at [http://localhost:8080/](http://localhost:8080/)
 You can login with a user preconfigured during Kickstart, `richard@example.com` with the password of `password`.
 
 ### Further Information
