@@ -99,7 +99,7 @@
               "enabled": false,
               "required": false
             },
-            "loginIdType": "email",
+            "loginIdType": "phoneNumber",
             "middleName": {
               "enabled": false,
               "required": false
