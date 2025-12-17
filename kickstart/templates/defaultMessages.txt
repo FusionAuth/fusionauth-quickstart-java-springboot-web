@@ -698,3 +698,10 @@ scope-consent-agreement=Click Allow to grant the selected requests to %s, or Can
 
 [MessengerError]=An error occurred while trying to send the message. Please contact your system administrator.
 
+# 1.62.0 messages
+verificationCode=Verification code
+user.parentEmail=Parent's email
+{description}email-verification-required-non-interactive-registration=Email verification is required to register. Check your inbox for the verification email and follow the instructions.
+{description}phone-verification-required-non-interactive-registration=Phone number verification is required to register. Check your device for the verification message and follow the instructions.
+{description}-registration-ready=Ready to complete your registration. Click the Register button below.
+[VerificationTimeout]=You did not complete the registration process in time. Please restart your request.
